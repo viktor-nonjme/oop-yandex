@@ -6,3 +6,7 @@
 
 1. Валидация при помощи JS и HTML;
 2. ООП.
+
+## Ссылка на страницу: 
+
+https://viktor-nonjme.github.io/oop-yandex/
